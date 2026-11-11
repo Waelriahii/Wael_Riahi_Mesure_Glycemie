@@ -23,10 +23,10 @@
         />
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/textAge"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Votre age"
+        android:text="Votre age : 0 ans"
         android:layout_marginTop="20dp"
         android:ems="10"
         android:textStyle="bold"
@@ -81,7 +81,7 @@
     </RadioGroup>
 
     <EditText
-        android:id="@+id/editText"
+        android:id="@+id/etValeur"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
